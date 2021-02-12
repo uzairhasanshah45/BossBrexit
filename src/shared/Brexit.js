@@ -1,0 +1,127 @@
+const Brexit = [
+  {
+    question: 'In which year did the UK vote to leave the European Union?',
+    answer1: '2014',
+    answer2: '2015',
+    answer3: '2016',
+    answer4: '2017',
+  },
+  {
+    question: 'Who was prime minister of the UK when the referendum to leave the EU took place?',
+    answer1: 'Theresa May',
+    answer2: 'Boris Johnson',
+    answer3: 'David Cameron',
+    answer4: 'Jeremy Corbyn',
+  },
+  {
+    question: 'Which special coin is being minted to mark the day the UK leaves the European Union?',
+    answer1: '2 pound coin',
+    answer2: '1 pound coin',
+    answer3: '50 pence coin',
+    answer4: '5 euro coin',
+  },
+  {
+    question: 'When did the UK originally join the European club of countries?',
+    answer1: '1966',
+    answer2: '1987',
+    answer3: '1973',
+    answer4: '1999',
+  },
+  {
+    question: 'Which of these countries is NOT in the European Union?',
+    answer1: 'Greece',
+    answer2: 'Malta',
+    answer3: 'Turkey',
+    answer4: 'Ireland',
+  },
+  {
+    question: 'Once the UK has left the European Union, how many countries will be still in?',
+    answer1: '11',
+    answer2: '18',
+    answer3: '27',
+    answer4: '36',
+  },
+  {
+    question: 'With which European Union country will the United Kingdom share a land border after Brexit?',
+    answer1: 'Denmark',
+    answer2: 'Germany',
+    answer3: 'Republic of Ireland',
+    answer4: 'France',
+  },
+  {
+    question: 'In which city is the headquarters of the European Union?',
+    answer1: 'Rome, Italy',
+    answer2: 'Amsterdam, Netherlands',
+    answer3: 'Brussels, Belgium',
+    answer4: 'Paris, France',
+  },
+  {
+    question: 'Who is the lead negotiator for the European Union?',
+    answer1: 'Jean-Claude Juncker',
+    answer2: 'Donald Tusk',
+    answer3: 'Michel Barnier',
+    answer4: 'Sophie Wilmés',
+  },
+  {
+    question: 'How many Article 50 extensions have there been?',
+    answer1: 'Five',
+    answer2: 'Two',
+    answer3: 'Three',
+    answer4: 'Four',
+  },
+  {
+    question: 'What caused the value of the pound to spike in September 2019?',
+    answer1: 'Positive negotiations with Leo Varadkar',
+    answer2: 'Rumours of an imminent deal between the UK and the EU',
+    answer3: 'MPs blocked the chances of a no-deal Brexit',
+    answer4: 'A vote to delay Brexit further',
+  },
+  {
+    question: 'Who first coined the phrase ‘three baskets’ when posing the options for Single Market involvement post-Brexit?',
+    answer1: 'Boris Johnson',
+    answer2: 'Jeremy Corbyn',
+    answer3: 'Theresa May',
+    answer4: 'Jacob Rees-Mogg',
+  },
+  {
+    question: 'Who was the face of the 2018 campaign for The People’s Vote?',
+    answer1: 'Sir David Attenborough',
+    answer2: 'Liam Gallagher',
+    answer3: 'Sir Patrick Stewart',
+    answer4: 'Delia Smith',
+  },
+  {
+    question: 'What impact did the 2016 referendum results have on the value of the pound in the currency exchange market?',
+    answer1: 'It reached a 12-year low',
+    answer2: 'No change',
+    answer3: 'It reached a 31-year low',
+    answer4: 'Slight uplift',
+  },
+  {
+    question: 'Who is chairman of the European Research Group?',
+    answer1: 'Dominic Raab',
+    answer2: 'Jacob Rees-Mogg',
+    answer3: 'Steve Baker',
+    answer4: 'Mark Francois',
+  },
+  {
+    question: 'Which MP is responsible for the bill which required the government to request a Brexit deadline extension in the event of a no-deal outcome? ',
+    answer1: 'Mhairi Black',
+    answer2: 'Sir Alan Campbell',
+    answer3: 'Hilary Benn',
+    answer4: 'Jo Swinson',
+  },
+  {
+    question: 'When was the ‘flash crash’?',
+    answer1: 'June 2016',
+    answer2: 'May 2019',
+    answer3: 'October 2016',
+    answer4: 'October 2019',
+  },
+];
+
+
+export {
+  Brexit,
+};
+
